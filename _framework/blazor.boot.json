@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JalopyJungle.InventoryWeb",
   "resources": {
-    "hash": "sha256-3xOI5A7d6LrdHtpAIE3r6r7Dv0zf8bot/k2DaYzzstY=",
+    "hash": "sha256-nSEhAwrO3ldIuEizhmfjRrZ6n0QSgmHi32ZzVCcw3rI=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.hcfaf5kh1o.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "JalopyJungle.InventoryWeb.wasm": "sha256-6D9mJQuAeZOE0//9cG/NH3J1CM4eBgRkFusV3fxFNDg=",
+      "JalopyJungle.InventoryWeb.wasm": "sha256-TBbuQqwLcaYjewKU5q0A1S69bXouAMCEHKQvvKrnaDM=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-rgdeA2AsLmfi/PukXaMOtBtmrIBvIBKVaIPq/fjDf1s=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-TnnAUgLMqR6UkuRUYIZCeUhnLAzwaxBZXNCt1UWn398=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-Hi44u8nXwXs4mLmTXzEq8181Z5dxiWzTcS1BUPC5e/M=",
